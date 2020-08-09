@@ -1,4 +1,4 @@
-#Decompiled by Ahmadmtp
+#Decompiled by MR.CLAYZ
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
 from multiprocessing.pool import ThreadPool
 
@@ -23,7 +23,7 @@ def jalan(z):
         time.sleep(0.01)
 
 
-logo = ' Tools Hack Facebook \n\x1b[1;93m Author    : Ahmadmtp \n\x1b[1;93m My Team.  : cyber noobz \n\x1b[1;93m Thanks To : Allah SWT'
+logo = ' Tools Hack Facebook \n\x1b[1;93m Author    : MR.CLAYZ \n\x1b[1;93m My Team.  : cyber noobz \n\x1b[1;93m Thanks To : Allah SWT'
 def tik():
     titik = [
      '.   ', '..  ', '... ']
